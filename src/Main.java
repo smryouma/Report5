@@ -4,4 +4,5 @@ public class Main {
             String str ="壱百満";
             System.out.println(Integer.parseInt(str));
     
+    }
 }
